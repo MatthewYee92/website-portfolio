@@ -99,7 +99,7 @@ const Footer = ({ githubInfo }) => (
     </SocialContainer>
     <Copy>
       <GithubLink
-        href="https://github.com/matthewyee92/v4"
+        href="https://github.com/matthewyee92"
         target="_blank"
         rel="nofollow noopener noreferrer">
         <div>Designed &amp; Built by Matthew Yee</div>
