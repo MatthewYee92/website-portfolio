@@ -112,7 +112,7 @@ export const pageQuery = graphql`
         node {
           frontmatter {
             title
-            image
+            
             tech
             github
             external

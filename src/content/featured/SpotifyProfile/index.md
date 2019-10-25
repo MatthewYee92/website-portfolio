@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Resume Generator'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/matthewyee92/resume-generator'
+external: ''
 tech:
   - React
   - Node.js
   - Express
-  - Spotify Web API
+  - Redux
 show: 'true'
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web app for creating a resume from JSON code for downloading, printing, and auto-saving to Google Drive, Dropbox, or OneDrive. There is also an 'in-house' code editor in the app that you can edit the input entrys with. Local storage enabled is optional for saving critical data.
