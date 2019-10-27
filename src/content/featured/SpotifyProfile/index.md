@@ -3,7 +3,7 @@ date: '2'
 title: 'Resume Generator'
 cover: './demo.png'
 github: 'https://github.com/matthewyee92/resume-generator'
-external: ''
+external: 'https://brave-kalam-8ee72c.netlify.com/'
 tech:
   - React
   - Node.js
