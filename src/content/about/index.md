@@ -3,7 +3,7 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - TypeScript
-  - JavaScript (ES6+)
+  - JavaScript
   - HTML & (S)CSS
   - React
   - Node.js
