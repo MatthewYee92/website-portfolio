@@ -1,10 +1,10 @@
 ---
-date: '2019-03-21'
+date: '2017-01-10'
 title: 'Software Engineer'
-company: 'Florida Disaster Rescue'
-location: 'Remote - Seattle, WA'
-range: 'March 2019 - September 2019'
-url: 'https://www.floridadisasterrescue.org'
+company: 'Google'
+location: 'Mountainview, CA - Austin, TX - Seattle, WA'
+range: 'Jan 2017 - September 2019'
+url: 'https://www.google.com'
 ---
 
 - Redesigned React components for more navigable user interface and better user experience for desktop and mobile. Updated features to optimize page speeds.
