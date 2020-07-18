@@ -4,7 +4,7 @@ avatar: './me.jpg'
 skills:
   - TypeScript
   - JavaScript
-  - HTML & (S)CSS
+  - HTML & CSS
   - React
   - Node.js
   - Express
