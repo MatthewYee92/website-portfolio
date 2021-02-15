@@ -3,7 +3,7 @@ date: '2020-03-21'
 title: 'Software Engineer'
 company: 'Atlassian'
 location: 'Austin, TX'
-range: 'March 2020 - July 2020'
+range: ''
 url: 'https://www.atlassian.com'
 ---
 

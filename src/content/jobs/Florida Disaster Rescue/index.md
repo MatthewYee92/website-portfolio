@@ -3,7 +3,7 @@ date: '2019-03-21'
 title: 'Software Engineer'
 company: 'Florida Disaster Rescue'
 location: 'Remote - Seattle, WA'
-range: 'March 2019 - September 2019'
+range: ''
 url: 'https://www.floridadisasterrescue.org'
 ---
 

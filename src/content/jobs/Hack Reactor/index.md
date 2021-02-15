@@ -3,7 +3,7 @@ date: '2019-09-17'
 title: 'Software Engineer Instructor Resident'
 company: 'Hack Reactor @ Galvanize'
 location: 'Seattle, WA'
-range: 'September 2019 - Present'
+range: 'September 2019 - Side Gig'
 url: 'https://www.hackreactor.com'
 ---
 

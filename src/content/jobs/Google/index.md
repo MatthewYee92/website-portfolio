@@ -3,7 +3,7 @@ date: '2017-01-10'
 title: 'Software Engineer'
 company: 'Google'
 location: 'Mountainview, CA - Austin, TX - Seattle, WA'
-range: 'Jan 2017 - September 2019'
+range: ''
 url: 'https://www.google.com'
 ---
 
